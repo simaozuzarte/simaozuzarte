@@ -9,9 +9,8 @@
 
 ## 👨‍💻 About Me
 
-- # 🎓 Education
-- BSc in Mathematics, University of Aveiro
-- MSc in Data Science and Engineering, University of POrto
+Aspiring Data Engineer 
+Working on machine learning and artificial intelligence
 
 **Languages**
 
@@ -33,6 +32,10 @@
   ## 📊 Weekly Development Breakdown
   <!--START_SECTION:waka-->
   <!--END_SECTION:waka-->
+  <summary> Recent projects
+  
+    
+  </summary>
 </details>
 
 ## 🎯 Interests
