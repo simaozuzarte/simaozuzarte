@@ -43,12 +43,7 @@
 
 - LinkedIn: [simao-bernardo](https://www.linkedin.com/in/simao-bernardo/)
 - Email: [simao9531@gmail.com](mailto:simao9531@gmail.com)
-- GitHub: [simaozuzarte](https://github.com/simaozuzarte)
-
-
-
-
-- 
+ 
 <!--
 **simaozuzarte/simaozuzarte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
