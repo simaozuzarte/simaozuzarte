@@ -9,8 +9,9 @@
 
 ## 👨‍💻 About Me
 
-- ✨ Aspiring Data Engineer   
-- ⚡ Check my [Website](https://yourwebsite.com)
+- # 🎓 Education
+- BSc in Mathematics, University of Aveiro
+- MSc in Data Science and Engineering, University of POrto
 
 **Languages**
 
@@ -33,6 +34,18 @@
   <!--START_SECTION:waka-->
   <!--END_SECTION:waka-->
 </details>
+
+## 🎯 Interests
+- Gym & Fitness 💪
+- Music 🎵
+
+## 📫 Let's Connect
+
+- LinkedIn: [simao-bernardo](https://www.linkedin.com/in/simao-bernardo/)
+- Email: [simao9531@gmail.com](mailto:simao9531@gmail.com)
+- GitHub: [simaozuzarte](https://github.com/simaozuzarte)
+
+
 
 
 - 
