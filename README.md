@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi there, I'm <span style="color:#3b82f6;">Simão9</span> 👋
+  Hi there, I'm <span style="color:#3b82f6;">Simão</span> 👋
 </h1>
 
 <p align="center">
@@ -25,6 +25,14 @@
 **Tools**
 
 ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
+
+<details>
+  <summary>📁 Code Stats</summary>
+  ## 📊 Weekly Development Breakdown
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
+</details>
+
 
 
 - 
