@@ -12,7 +12,8 @@
 - ✨ Aspiring Data Engineer   
 - ⚡ Check my [Website](https://yourwebsite.com)
 
-  
+**Languages**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -27,12 +28,11 @@
 ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
 
 <details>
-  <summary>📁 Code Stats</summary>
+  <summary> 📈 Code Stats</summary>
   ## 📊 Weekly Development Breakdown
   <!--START_SECTION:waka-->
   <!--END_SECTION:waka-->
 </details>
-
 
 
 - 
