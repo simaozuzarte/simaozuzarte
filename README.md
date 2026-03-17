@@ -1,6 +1,6 @@
 <div align="center">
   
-#👋 Simão Bernardo
+👋 Simão Bernardo
 
 **Student | Aspiring Data Engineer | Machine Learning Enthusiast**
 
