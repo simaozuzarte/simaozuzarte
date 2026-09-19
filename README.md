@@ -98,4 +98,7 @@ Feel free to connect if you want to talk about data, machine learning, or anythi
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedI
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simao-bernardo/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:simao9531@gmail.com)
+
+</div>
