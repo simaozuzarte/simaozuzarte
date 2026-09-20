@@ -75,8 +75,6 @@ real systems such as energy and logistics. These are areas I want to learn more 
 
 ## Projects
 
-**⚡ E-REDES project**  
-
 - 🔥 **Metaheuristics Optimization**  
   Simulated Annealing, Genetic Algorithms and Tabu Search.
 
