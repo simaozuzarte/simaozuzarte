@@ -92,7 +92,7 @@ Code is in my pinned repositories below.
 ## Outside the code
 
 - 🏋️ **Gym:** I like that it's tangible. If I show up, I see results, and I even enjoy the pain, since it means something is changing.
-- 🎵 **Music:** Nostalgic songs, the ones made without autotune or studio effects. Just the basics, done well.
+- 🎵 **Music:** Nostalgic songs, the ones made without autotune. Just the classics, done well.
 - 🍽️ **Food:** I love good food. Some days it's the best part of the day.
 
 ---
