@@ -77,15 +77,19 @@ real systems such as energy and logistics. These are areas I want to learn more 
 
 **⚡ E-REDES project**  
 
-**🔥 Metaheuristics Optimization**  
-Simulated Annealing, Genetic Algorithms and Tabu Search. 
-**🌲 Imbalanced Classification**  
-Random Forests on imbalanced datasets.
-**🌍 Seismic Signal Analysis**  
-Processing and analysis of seismic signal data.
-**📊 Data Analysis & Visualization**  
-Data analysis and statistical methods
-Code is in my pinned repositories below.
+- 🔥 **Metaheuristics Optimization**  
+  Simulated Annealing, Genetic Algorithms and Tabu Search.
+
+- 🌲 **Imbalanced Classification**  
+  Random Forests applied to imbalanced datasets.
+
+- 🌍 **Seismic Signal Analysis**  
+  Processing and analysis of seismic signal data.
+
+- 📊 **Data Analysis & Visualization**  
+  Exploratory data analysis and statistical methods.
+
+The code is in my pinned repositories below.
 
 ---
 
