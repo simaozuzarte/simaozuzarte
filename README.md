@@ -1,16 +1,24 @@
 <div align="center">
 
-# Simão Bernardo
+# Hi, I'm Simão 👋
 
 **MSc Student in Data Science and Engineering | Mathematics Graduate**
+
+*I want to understand why things work.*
 
 </div>
 
 ---
 
-## About Me
+## About me
 
-I'm a Mathematics graduate currently doing a Master's in Data Science and Engineering at the University of Porto (FEUP). I work mainly with Python and SQL, and my coursework so far has covered machine learning, optimization, databases and signal processing.
+I got into Mathematics because of a private tutor. He explained everything with real joy, 
+and he never said "it's like this because I say so". He always showed me the reason why. 
+That made Mathematics feel like a pleasure instead of a chore.
+
+I've been chasing that feeling ever since, first with a Mathematics degree, and 
+now with a Master's in Data Science and Engineering at FEUP in Porto, 
+working mainly with Python and SQL.
 
 ---
 
@@ -57,44 +65,41 @@ I'm a Mathematics graduate currently doing a Master's in Data Science and Engine
 
 ---
 
-## University Projects
+## What interests me
 
-Projects completed as part of my coursework:
+I'm looking for a dissertation topic, and I'm drawn to the applied side of AI: 
+language models and retrieval, decision support and optimization, and data from 
+real systems such as energy and logistics. These are areas I want to learn more about.
 
-**Metaheuristics Optimization**  
-Implementation of optimization algorithms including Simulated Annealing, Genetic Algorithms and Tabu Search.
+---
 
-**Imbalanced Classification**  
-Random Forest techniques for handling imbalanced datasets.
+## Projects
 
-**Seismic Signal Analysis**  
+**⚡ E-REDES project**  
+
+**🔥 Metaheuristics Optimization**  
+Simulated Annealing, Genetic Algorithms and Tabu Search. 
+**🌲 Imbalanced Classification**  
+Random Forests on imbalanced datasets.
+**🌍 Seismic Signal Analysis**  
 Processing and analysis of seismic signal data.
-
-**Data Analysis & Visualization**  
-Projects involving exploratory data analysis and statistical methods.
-
-The code is in my pinned repositories below.
+**📊 Data Analysis & Visualization**  
+Data analysis and statistical methods
+Code is in my pinned repositories below.
 
 ---
 
-## Currently Learning
+## Outside the code
 
-- Machine learning fundamentals
-- Databases and SQL
-- Improving my Python
-
----
-
-## Beyond the Code
-
-- Gym
-- Music
+- 🏋️ **Gym:** I like that it's tangible. If I show up, I see results, and I even enjoy the pain, since it means something is changing.
+- 🎵 **Music:** Nostalgic songs, the ones made without autotune or studio effects. Just the basics, done well.
+- 🍽️ **Food:** I love good food. Some days it's the best part of the day.
 
 ---
 
-## Get in Touch
+## Let's talk
 
-Feel free to connect if you want to talk about data, machine learning, or anything else.
+Feel free to reach out about data, AI, or a good restaurant.
 
 <div align="center">
 
