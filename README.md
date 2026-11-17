@@ -75,17 +75,12 @@ real systems such as energy and logistics. These are areas I want to learn more 
 
 ## Projects
 
-- 🔥 **Metaheuristics Optimization**  
-  Simulated Annealing, Genetic Algorithms and Tabu Search.
-
-- 🌲 **Imbalanced Classification**  
-  Random Forests applied to imbalanced datasets.
-
-- 🌍 **Seismic Signal Analysis**  
-  Processing and analysis of seismic signal data.
-
-- 📊 **Data Analysis & Visualization**  
-  Exploratory data analysis and statistical methods.
+* ⚡ **[Energy communities in Porto](https://github.com/simaozuzarte/EnergyCommunitiesAMP):** did energy communities change electricity consumption in each parish? *Python*
+* 🔌 **[Power quality data warehouse](https://github.com/simaozuzarte/PowerQualityDataWarehouse):** E-REDES grid data in a star schema, with SQL views and a Power BI dashboard. *MySQL, Power BI*
+* 🏭 **[Job shop scheduling](https://github.com/simaozuzarte/Jobshop_optimization):** constraint programming against MIP on benchmark instances. *Python, OR-Tools*
+* 🌲 **[Random Forests and class imbalance](https://github.com/simaozuzarte/random-forest-openml):** an adaptive sampling strategy that raised minority recall from 0.43 to 0.64. *R*
+* 🌍 **[Seismic sensor classification](https://github.com/simaozuzarte/earthquake-signal-processing):** which sensor recorded this earthquake, from the waveform alone. *Python, ObsPy*
+* 🎧 **[Musify](https://github.com/simaozuzarte/musicplatform_database):** a music streaming database with a desktop client. *SQL Server, C#*
 
 The code is in my pinned repositories below.
 
